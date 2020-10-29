@@ -1,2 +1,3 @@
 # GitSkill
-Creating  anew branch in quick.
+Creating  a new branch in quick.\
+HHH
